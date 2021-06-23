@@ -1,0 +1,60 @@
+<svg width="100%" viewBox="0 0 650 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="TV" clip-path="url(#clip0)">
+<g id="antenna">
+<rect id="ant2" x="417.726" y="31.3086" width="10" height="131.657" transform="rotate(30 417.726 31.3086)" fill="#C4C4C4"/>
+<rect id="ant1" x="265.658" y="23.156" width="10" height="131.657" transform="rotate(-15 265.658 23.156)" fill="#C4C4C4"/>
+<circle id="Ellipse 11" cx="325" cy="180.331" r="47.3214" fill="#C4C4C4" stroke="black" stroke-width="15"/>
+</g>
+<rect id="Rectangle 14" x="47.4343" y="177.85" width="562.978" height="367.901" rx="12.5" fill="#766437" stroke="black" stroke-width="15"/>
+<g id="screen">
+<rect id="Rectangle 15" x="81.2907" y="214.931" width="388.053" height="296.157" rx="32.5" fill="#F1F1F1" stroke="black" stroke-width="15"/>
+<path id="screen shadow" d="M94.9946 250.643C94.9946 238.216 105.068 228.143 117.495 228.143H446.844C459.27 228.143 469.344 238.216 469.344 250.643V478.588C469.344 496.537 454.793 511.088 436.844 511.088H117.495C105.068 511.088 94.9946 501.014 94.9946 488.588V250.643Z" stroke="black" stroke-opacity="0.5" stroke-width="15"/>
+<g id="static">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="73" y="207" width="404" height="312">
+<rect id="Rectangle 16" x="73.7907" y="207.431" width="403.053" height="311.157" rx="40" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<g id="lines">
+<path id="Vector 2" d="M-26.0197 207.431L42.0385 270.384L113.5 207.431L184.961 270.384L251.318 207.431L343.196 270.384L411.254 229.549L463.999 270.384L550.774 207.431L625.638 270.384L720.919 229.549L792.38 283.996L899.572 229.549L1006.76 283.996" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 4" d="M1063.09 360.561L994.728 297.939L923.575 361.241L851.807 298.637L785.758 361.913L693.574 299.409L625.716 340.575L572.772 299.998L486.306 363.374L411.136 300.786L316.055 342.086L244.329 287.988L137.404 342.957L29.9479 289.034" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 5" d="M1063.09 360.561L994.728 297.939L923.575 361.241L851.807 298.637L785.758 361.913L693.574 299.409L625.716 340.575L572.772 299.998L486.306 363.374L411.136 300.786L316.055 342.086L244.329 287.988L137.404 342.957L29.9479 289.034" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 6" d="M1093.54 523.767L1025.48 460.813L954.018 523.767L882.557 460.813L816.2 523.767L724.322 460.813L656.264 501.648L603.519 460.813L516.744 523.767L441.88 460.813L346.599 501.648L275.138 447.201L167.946 501.648L60.7544 447.201" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 8" d="M4.42587 370.637L72.7904 433.258L143.944 369.956L215.711 432.561L281.76 369.284L373.944 431.789L441.803 390.622L494.746 431.199L581.212 367.823L656.382 430.411L751.464 389.112L823.189 443.209L930.114 388.24L1037.57 442.163" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector 9" d="M4.42587 370.637L72.7904 433.258L143.944 369.956L215.711 432.561L281.76 369.284L373.944 431.789L441.803 390.622L494.746 431.199L581.212 367.823L656.382 430.411L751.464 389.112L823.189 443.209L930.114 388.24L1037.57 442.163" stroke="black" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M81.4523 188.069C70.4066 188.069 61.4523 197.024 61.4523 208.069V515.531C61.4523 526.576 70.4066 535.531 81.4523 535.531H565.936C576.982 535.531 585.936 526.576 585.936 515.531V208.069C585.936 197.024 576.982 188.069 565.936 188.069H81.4523ZM113.771 207.431C91.68 207.431 73.7714 225.339 73.7714 247.431V478.588C73.7714 500.679 91.6799 518.588 113.771 518.588H436.825C458.916 518.588 476.825 500.679 476.825 478.588V247.431C476.825 225.339 458.916 207.431 436.825 207.431H113.771Z" fill="#766437"/>
+<g id="reflection" opacity="0.8">
+<rect id="Rectangle 27" x="122.157" y="248.302" width="20.9588" height="66.6977" fill="white"/>
+<rect id="Rectangle 17" x="122.157" y="328.451" width="20.9588" height="23.2725" fill="white"/>
+</g>
+</g>
+<g id="controls">
+<g id="top">
+<circle id="Ellipse 12" cx="537.479" cy="262.806" r="34.1634" fill="#C4C4C4" stroke="black" stroke-width="16"/>
+<rect id="Rectangle 3180" x="531.833" y="235.153" width="11.2935" height="35.7273" fill="black"/>
+</g>
+<g id="bottom">
+<circle id="Ellipse 10" cx="537.479" cy="366.27" r="34.6634" fill="#C4C4C4" stroke="black" stroke-width="15"/>
+<rect id="Rectangle 3181" x="531.833" y="335.566" width="11.2935" height="35.7273" fill="black"/>
+</g>
+</g>
+<g id="speaker">
+<rect id="Rectangle 18" x="495.316" y="443.979" width="17.8441" height="17.8441" fill="#574625"/>
+<rect id="Rectangle 19" x="528.557" y="443.979" width="17.8441" height="17.8441" fill="#574625"/>
+<rect id="Rectangle 20" x="561.799" y="443.979" width="17.8441" height="17.8441" fill="#574625"/>
+<rect id="Rectangle 21" x="495.316" y="475.417" width="17.8441" height="17.8441" fill="#574625"/>
+<rect id="Rectangle 22" x="528.557" y="475.417" width="17.8441" height="17.8441" fill="#574625"/>
+<rect id="Rectangle 23" x="561.799" y="475.417" width="17.8441" height="17.8441" fill="#574625"/>
+<rect id="Rectangle 24" x="495.316" y="506.855" width="17.8441" height="17.8441" fill="#574625"/>
+<rect id="Rectangle 25" x="528.557" y="506.855" width="17.8441" height="17.8441" fill="#574625"/>
+<rect id="Rectangle 26" x="561.799" y="506.855" width="17.8441" height="17.8441" fill="#574625"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="650" height="630" fill="white"/>
+</clipPath>
+</defs>
+</svg>

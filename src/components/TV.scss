@@ -1,0 +1,44 @@
+
+.tv {
+  #lines {
+    animation: tvStatic 3000ms linear alternate infinite;
+  }
+
+  #bottom {
+    animation: bottomKnob 1000ms linear alternate infinite;
+    transform-origin: 538.58px 368.46px;
+  }
+
+  #top {
+    animation: topKnob 700ms linear alternate infinite;
+    transform-origin: 538.1px 265.01px;
+  }
+
+  @keyframes bottomKnob {
+    0% {
+      transform: rotate(-20deg);
+    }
+    100% {
+      transform: rotate(70deg);
+    }
+  }
+
+  @keyframes topKnob {
+    0% {
+      transform: rotate(-40deg);
+    }
+    100% {
+      transform: rotate(60deg);
+    }
+  }
+
+  @keyframes tvStatic {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-80%);
+    }
+  }
+}
+
